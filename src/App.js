@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/header/index';
 import Nav from './components/nav/index';
 import About from './components/about/index';
-import Resume from './components/resume/index';
+import Experience from './components/experience/index';
 import Portfolio from './components/portfolio/index';
 import Contact from './components/contact/index';
 import Footer from './components/footer/index';
@@ -14,7 +14,7 @@ function App() {
       <Header />
       <Nav />
       <About />
-      <Resume />
+      <Experience />
       <Portfolio />
       <Contact />
       <Footer />
