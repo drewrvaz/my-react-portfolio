@@ -26,3 +26,11 @@ nav a {
 nav a:hover {
   background: var(--color-text);
 }
+
+/* ==================== MEDIA QUERIES (SMALL DEVICES) ====================*/
+
+@media screen and (max-width: 600px) {
+ nav {
+  display: none;
+ }
+}
