@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.756553bb.css",
+    "main.js": "/my-react-portfolio/static/js/main.7c2b3dd6.js",
+    "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/DSC_0136.JPG": "/my-react-portfolio/static/media/DSC_0136.aecc627bda4bbba05449.JPG",
+    "static/media/v982-d4-01.jpg": "/my-react-portfolio/static/media/v982-d4-01.10d6bb0594dcedc5ae72.jpg",
+    "static/media/klaw_movies.jpeg": "/my-react-portfolio/static/media/klaw_movies.742a1f5efe303057de4b.jpeg",
+    "static/media/weather_app.jpeg": "/my-react-portfolio/static/media/weather_app.eff6977f3666c3b92e8c.jpeg",
+    "static/media/password_generator.jpeg": "/my-react-portfolio/static/media/password_generator.6dd615588bf5287f73fe.jpeg",
+    "static/media/FullstackResume.pdf": "/my-react-portfolio/static/media/FullstackResume.2de5f1c3cd7e32558405.pdf",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.756553bb.css.map": "/my-react-portfolio/static/css/main.756553bb.css.map",
+    "main.7c2b3dd6.js.map": "/my-react-portfolio/static/js/main.7c2b3dd6.js.map",
+    "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756553bb.css",
+    "static/js/main.7c2b3dd6.js"
+  ]
+}
