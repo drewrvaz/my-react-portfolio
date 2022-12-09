@@ -23,6 +23,11 @@
   row-gap: 2rem;
 }
 
+.downloadResume {
+  margin: 2rem;
+  text-align: center;  
+}
+
 /* ==================== MEDIA QUERIES (MEDIUM DEVICES) ===================*/
 @media screen and (max-width: 1024px) {
   .experience-container {

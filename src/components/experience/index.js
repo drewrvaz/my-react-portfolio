@@ -1,5 +1,6 @@
 import React from 'react';
 import './experience.css';
+import Resume from '../../assets/FullstackResume.pdf';
 import {AiOutlineCheckCircle} from 'react-icons/ai';
 
 const Experience = () => {
@@ -69,6 +70,9 @@ const Experience = () => {
             </article>
           </div>
         </div>
+      </div>
+      <div className='downloadResume'>
+        <a href={Resume} download className='btn'>Download Resume</a>
       </div>
     </section>
   )
